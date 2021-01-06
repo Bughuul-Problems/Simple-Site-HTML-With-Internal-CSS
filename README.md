@@ -1,5 +1,5 @@
 # Another-HTML-Pratice
 
-Another Simple HTML only site.
+Another Simple Sample site.
 
 Doing this for practice.
