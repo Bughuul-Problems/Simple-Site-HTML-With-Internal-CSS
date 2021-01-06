@@ -1,4 +1,4 @@
-# Another-HTML-Pratice
+# Another-HTML-Practice
 
 Another Simple Sample site.
 
