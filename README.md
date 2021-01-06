@@ -2,4 +2,4 @@
 
 Another Simple HTML only site.
 
-Doing this for pratice.
+Doing this for practice.
